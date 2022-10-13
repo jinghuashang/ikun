@@ -1,25 +1,54 @@
 body{
 	background-color: blanchedalmond;
-	}
+	font-family: W01;
+}
 h1{
 	color: crimson;
 	text-align: center;
 	font-size: 72px;
-	}
+}
 #kt{
 	text-align: center;
-	}
+}
 a{
 	color: #DC143C;
 	text-decoration: none;
 	font-size: 36px;
 	margin-left: 50px;
-	}
+}
 #hy{
 	background-color: #b3357c;
 	color: #FFF;
-	}
+	text-align: center;
+}
 #hy .p2{
 	color: orange;
 	text-decoration: underline;
-	}
+}
+@font-face {
+	font-family: 'W01';
+	src: url(../font/W01.ttf);
+}
+
+#lp{
+	background-color: orangered;
+}
+
+h3{
+	text-align: center;
+	color: aquamarine;
+}
+
+li{
+	font-size: 30px;
+}
+
+#zw{
+	background-color: greenyellow;
+}
+
+h4{
+	text-align: center;
+	color: #FFF;
+	font-size: 30px;
+}
