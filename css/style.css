@@ -1,0 +1,25 @@
+body{
+	background-color: blanchedalmond;
+	}
+h1{
+	color: crimson;
+	text-align: center;
+	font-size: 72px;
+	}
+#kt{
+	text-align: center;
+	}
+a{
+	color: #DC143C;
+	text-decoration: none;
+	font-size: 36px;
+	margin-left: 50px;
+	}
+#hy{
+	background-color: #b3357c;
+	color: #FFF;
+	}
+#hy .p2{
+	color: orange;
+	text-decoration: underline;
+	}
